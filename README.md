@@ -1,2 +1,2 @@
 # MyPokerSoultion
-my poker solution
+poker solution
