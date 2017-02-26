@@ -29,5 +29,4 @@ public enum CardRank {
 	  public int getCardRank() {
 	      return this.rank;
 	  }
-
 }

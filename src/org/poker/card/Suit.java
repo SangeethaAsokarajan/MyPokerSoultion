@@ -20,5 +20,4 @@ public enum Suit {
 	  public String getSuit() {
 	      return this.code;
 	  }
-	  
 }
